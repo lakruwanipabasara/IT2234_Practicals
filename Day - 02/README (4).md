@@ -1,21 +1,48 @@
-# IT2234_Practicals
-Web Services and Server Technologies - Practicals
+IT2234(P) Web Services and Server Technologies
 
-Print "Hello World!."
+01) Display array elements using for loop and foreach loop.-->Array.js![Array]
+![Array](https://github.com/user-attachments/assets/6a15a3ad-edfb-4ccd-b218-b4dbea2b6c4e)
 
-![first](https://github.com/user-attachments/assets/e9611012-d76a-4dd9-b268-b3cf819356e4)
+03) Find the maximum number in the array using foreach.-->Maximum.js
+![Maximum](https://github.com/user-attachments/assets/1161f312-dce7-46c9-aaf8-eb81fb9c9e60)
 
-Perform mathematical operations
+03) Print the nested array.-->Nested.js
+![Nested](https://github.com/user-attachments/assets/0c23fee6-a611-40cc-b43a-886645e65007)
 
-![Operators](https://github.com/user-attachments/assets/7821c7f4-0aa3-4fbd-8d82-6037c406a17f)
+04) Find the common elements between a and b.-->ArrayCommon.js
+![ArrayCommon](https://github.com/user-attachments/assets/2b6af8ce-a8ad-437d-b136-efd2c2cf8b1d)
 
-Q1. Print numbers 1 to 10
+05) Write a code find the all pairs that sum up to target.-->TargetSum.js
+![TargetSum](https://github.com/user-attachments/assets/402a445a-5be9-4e6c-b5aa-a8c7c2535045)
 
-Q2. Print only odd numbers
+06) Find the most frequent element in the array.-->ArrayFrequent.js
+![ArrayFrequent](https://github.com/user-attachments/assets/e60ec06f-1677-43af-b21c-a081a18aea1f)
 
-Q3. Print the numbers in reverse
+07) Array Operations(Push and Pop)-->ArrayOperation.js
+![ArrayOperation](https://github.com/user-attachments/assets/d030b9a7-a16d-41c5-8152-a37313672c53)
 
-Q4. Print the numbers in left and right 4321-5-9876
+08) JSON-->JSON.js
 
-![questions](https://github.com/user-attachments/assets/a52dd032-41c7-46fd-8a1f-7040aff7311f)
+01-Define 10 students 
+
+02-Store it in an Array
+
+03-Find the female students
+
+04-Find the students who are following IT course
+
+05-Find the max and average GPA among the students
+
+![JSON 1](https://github.com/user-attachments/assets/6e8a022b-dc17-41d1-9db7-708032fd50c7)
+
+![JSON 2](https://github.com/user-attachments/assets/c8b41718-defc-4a12-aa43-c56ff4376925)
+
+![JSON 3](https://github.com/user-attachments/assets/fd673027-7306-4336-a602-b091e703db68)
+
+![JSON 4](https://github.com/user-attachments/assets/9a968d4f-dc59-484f-a78c-d56ec8db8d53)
+
+![JSON 5](https://github.com/user-attachments/assets/0f608ac8-b538-418a-bcf6-8f3c2e1e7ef0)
+
+
+
 
