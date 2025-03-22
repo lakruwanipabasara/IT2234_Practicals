@@ -1,27 +1,27 @@
 # IT2234_Practicals
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
+Functions----
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+(01)void type function
 
+(02)return type function
 
-(02)Arithmetic Operations
+(03)Write a boolean function to find a given number is prime or not.
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+(04)Write a recursive function to print numbers from 1 to n.
 
+(05)arrow function
 
-(03)Loops
+(06)Write an arrow function to sum two numbers.
 
-(1)Print numbers from 1 to 10
+(07)Multiplication
 
-(2)Print only odd numbers
+(08)Rest parameter and sum of numbers in an array.
 
-(3)Print numbers in reverse
+(09)callback function
 
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
+![Functions](https://github.com/user-attachments/assets/a1c04383-3962-456c-82ce-26c52172678d)
 
 
 
