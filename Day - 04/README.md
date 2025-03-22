@@ -1,28 +1,24 @@
 # IT2234_Practicals
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
+Creating a basic http server
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+server.js
+
+![Server](https://github.com/user-attachments/assets/b8698e0a-da74-4726-9421-440fa2971b19)
+
+![Server 2](https://github.com/user-attachments/assets/bc7a8f97-e935-460d-a0b5-b6ec6e5a0fc7)
 
 
-(02)Arithmetic Operations
+Introduction to Express.js and HTTP GET Requests
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+myapp.zip
 
+![myapp](https://github.com/user-attachments/assets/6170bc23-4214-4427-bf8b-d2b51d969a3d)
 
-(03)Loops
+![myapp2](https://github.com/user-attachments/assets/2b8a0fb8-b5ed-4b85-9aab-bf6d29c1b4ab)
 
-(1)Print numbers from 1 to 10
-
-(2)Print only odd numbers
-
-(3)Print numbers in reverse
-
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
-
+![myapp3](https://github.com/user-attachments/assets/6d363520-e6ba-4e23-8aa6-3f428ffa274f)
 
 
 
