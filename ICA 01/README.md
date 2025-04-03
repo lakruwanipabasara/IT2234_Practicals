@@ -1,28 +1,24 @@
 # IT2234_Practicals
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
+# ICA 01
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+01) A buyer wants to find whether a computer keyboard and a mouse can be purchased within a specific budget. Write a code to input the budget and the prices of each 
+    item available. The program should return the maximum possible purchase amount that is less than or equal to the budget. If no feasible purchase is available, 
+    return -1.
 
+   ![Q1](https://github.com/user-attachments/assets/101c2bfc-c53d-4c65-98f7-72d1fc9f16db)
 
-(02)Arithmetic Operations
+02) Identify the unique programming languages known to the students from the provided JSON data in the Data.js file. Expected output: [ 'Java’, ‘JavaScript’, ‘C++'!
+    'Python’, ‘C', 'Go', 'Swift', 'R', 'SQL', Ruby', Bash']
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+![Q2](https://github.com/user-attachments/assets/1fd7099b-7077-4695-9671-89b219c86caa)
 
+03) Rearrange the digits of a given number to create a maximum value. The number should have a minimum of 2 digits. Note: input and output should be numbers. For 
+    example: Input number = 215, Max = 521 Input number = 1093, Max = 9310
 
-(03)Loops
+    ![Q3](https://github.com/user-attachments/assets/90914f81-f916-44fc-a4ef-bd7bf10bf3b4)
 
-(1)Print numbers from 1 to 10
-
-(2)Print only odd numbers
-
-(3)Print numbers in reverse
-
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
-
-
-
+04) Convert a decimal number to a Hexadecimal number using recursion and callback function techniques. You have given a switch case function called HexSWC in the 
+    Q4.js file, you may use it as a callback function to complete the task.
 
