@@ -22,3 +22,5 @@ Web Services and Server Technologies - Practical Sessions
 04) Convert a decimal number to a Hexadecimal number using recursion and callback function techniques. You have given a switch case function called HexSWC in the 
     Q4.js file, you may use it as a callback function to complete the task.
 
+![Q4](https://github.com/user-attachments/assets/e5705979-abe2-41df-bb08-a241051788ed)
+
