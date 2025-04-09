@@ -1,28 +1,16 @@
 # IT2234_Practicals
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
+(01)Get all the students details.
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+![SS 1](https://github.com/user-attachments/assets/ba2e9de1-f59e-4ee2-8804-96584142e820)
 
+(02)Get the details of a student by entering student id.
 
-(02)Arithmetic Operations
+![SS 2](https://github.com/user-attachments/assets/4b6f517a-a865-40b6-8811-85fe80ab3739)
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+(03)Filter the student details by gender.
 
-
-(03)Loops
-
-(1)Print numbers from 1 to 10
-
-(2)Print only odd numbers
-
-(3)Print numbers in reverse
-
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
-
-
+![SS 3](https://github.com/user-attachments/assets/f40647ee-81a2-4d34-bbc9-5c9ad27575a3)
 
 
