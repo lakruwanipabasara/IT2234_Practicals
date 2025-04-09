@@ -1,28 +1,18 @@
 # IT2234_Practicals
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
+# Assignment 01
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+Terminal :-
 
+![SS](https://github.com/user-attachments/assets/65479202-0c13-47da-861b-7772aec03334)
 
-(02)Arithmetic Operations
+1.Find the user of the given ID along with his/her number of posts and comments.
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+![SS 1](https://github.com/user-attachments/assets/c6919811-e0be-4338-ab53-81a259967b3f)
 
+2.Retrieve the comments and the commentator's full name only of the specified post ID.
 
-(03)Loops
-
-(1)Print numbers from 1 to 10
-
-(2)Print only odd numbers
-
-(3)Print numbers in reverse
-
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
-
-
+![SS 2](https://github.com/user-attachments/assets/185455e4-f4cd-40e7-94db-8950889a034c)
 
 
