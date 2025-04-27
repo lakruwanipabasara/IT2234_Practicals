@@ -9,3 +9,76 @@ show databases
 # Show collections in the current database
 show collections
 
+//insert data to document.
+{
+  "regno": "2021IT01",
+  "name": "Kolins",
+  "age": 25,
+  "degree": "IT",
+  "gpa": 3.2,
+  "skills": [
+    "JS",
+    "MongoDB",
+    "Node"
+  ]}
+
+//clone data in a document
+
+{
+  "regno": "2021IT002",
+  "name": "JayB",
+  "age": 23,
+  "degree": "IT",
+  "gpa": 3.1,
+  "skills": [
+    "JS",
+    "MongoDB",
+    "Node"
+  ]
+}
+
+//Insert data into onetime MongoDB shell)
+{
+  "regno": "2021IT003",
+  "name": "Kasuni",
+  "age": 21,
+  "degree": "IT",
+  "gpa": 3.3,
+  "skills": [
+    "JS",
+    "MySQL",
+    "Java"
+  ],
+  "gender": "Female"
+}
+
+// insert to many data in one time
+
+{
+  "regno": "2021IT004",
+  "name": "Smith",
+  "age": 24,
+  "degree": "IT",
+  "gpa": 3.7,
+  "skills": [
+    "JS",
+    "MySQL",
+    "MongoDB"
+  ],
+  "gender": "Male"
+}
+
+{
+  "regno": "2021IT005",
+  "name": "Ann",
+  "age": 23,
+  "degree": "IT",
+  "gpa": 3.5,
+  "skills": [
+    "JS",
+    "MySQL",
+    "MongoDB"
+  ],
+  "gender": "Female"
+}
+
