@@ -1,0 +1,11 @@
+//Basic Shell Commands
+
+# Change the database
+use unidb
+
+# Show all databases
+show databases
+
+# Show collections in the current database
+show collections
+
