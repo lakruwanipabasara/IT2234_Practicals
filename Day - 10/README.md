@@ -83,10 +83,12 @@ Web Services and Server Technologies - Practical Sessions
 ## ➤  Options
 
 • Display Name and Age With ID.
+  {name:1, age:1}
 
 ![SS18](https://github.com/user-attachments/assets/8adbffa9-5454-4cd1-9739-c54f5c9c5217)
 
 • Display Name and Age Without ID.
+  {name:1, age:1, _id:0}
 
 ![SS19](https://github.com/user-attachments/assets/1b9e9735-6df0-42be-8502-b720f42f7b9e)
 
@@ -94,7 +96,8 @@ Web Services and Server Technologies - Practical Sessions
 
 ![SS20](https://github.com/user-attachments/assets/ac242beb-e0c3-4383-bcea-3d6e1031893b)
 
-• Find Students using gender in MongoDB shell.
+• Find Students using gender in MongoDB shell. 
+  db.students.find({gender:"female"})
 
 ![SS21](https://github.com/user-attachments/assets/5bab0b13-505a-40fc-ae0c-e6a15d8a1324)
 
@@ -104,16 +107,24 @@ Web Services and Server Technologies - Practical Sessions
 
 • Find students whose age is greater than 23
 
+ {age:{$gt:23}}
+ 
 ![SS23](https://github.com/user-attachments/assets/990f5cf0-06ab-4854-be30-00badeb3669c)
+
+db.students.find({"age":{$gt:23}})
 
 ![SS24](https://github.com/user-attachments/assets/b8fc421f-07a1-4f94-b9e6-399714c3ab20)
 
 • Find the studets skills:Node
 
+ {skills:{$in:['Node']}}
+
 ![SS25](https://github.com/user-attachments/assets/e4071a74-1cc4-4db4-b62a-83d58b87a414)
 
 • Find students who have skills in MySQL or MongoDB.
 
+ {skills:{$in:['MySQL','MongoDB']}}
+ 
 ![SS26](https://github.com/user-attachments/assets/0f890ffb-8b1a-401b-a174-01d839473ce1)
 
 ![SS27](https://github.com/user-attachments/assets/0a7b3f61-0e33-45cb-b989-99732cded0fb)
@@ -122,9 +133,13 @@ Web Services and Server Technologies - Practical Sessions
 
 • Sort students by gpa (Descending order).
 
+{ gpa: -1 }
+
 ![SS28](https://github.com/user-attachments/assets/6aa1ba3c-9858-4ff8-a45d-a454ac2648f5)
 
 • Sort students by gpa (Ascending order) using MongoDB shell.
+
+db.students.find().sort({'gpa':1})
 
 ![SS29](https://github.com/user-attachments/assets/263517ed-797e-403f-b86c-a1bac2cd77d1)
 
@@ -133,6 +148,8 @@ Web Services and Server Technologies - Practical Sessions
 ![SS31](https://github.com/user-attachments/assets/6df58d4b-9256-47a6-8351-a308bdfc3ff1)
 
 • Find IT Female students sort by gpa (Ascending order) using MongoDB shell.
+
+db.students.find({'degree':'IT','gender':'Female'}).sort({'gpa':1})
 
 ![SS32](https://github.com/user-attachments/assets/f7283f1b-3377-48e0-8fa5-692e906183d1) 
 
