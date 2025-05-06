@@ -1,0 +1,39 @@
+01. //Drop a database 
+db.dropDatabase()
+
+02. // Drop a collection 
+db.sampledata.drop()
+
+03. // Delete data by ID
+db.degree.deleteOne({_id:ObjectId('680ee994a6a40ec6c45a9682')})
+
+04. // Display the degree programs name and the duration with _id
+db.degree.find().projection(['name','duration'])
+db.degree.find({},{name:1,_id:0}).pretty()
+
+05. //get only the object_id.
+db.degrees.find().projection([{'name':1},{'_id':-1}])
+
+06. // Delete the degree which duration is less than 04
+db.degree.deleteMany({duration:{$lt:4}})
+
+// Display the remaining
+db.degree.find({},{name:1,duration:1,_id:0}).pretty()
+
+07. // Update the details of one degree using Id
+db.degree.updateOne({_id:ObjectId('680eef5ea6a40ec6c45a968e')},{$set:{name:'BIT',duration:3}})
+
+08. // Find the degree using Id
+db.degree.findOne({_id:ObjectId('680eef5ea6a40ec6c45a968e')})
+
+09. //Update by adding 1 year to the degrees which duration is greater than or equal to 4
+db.degree.updateMany({duration:{$gte:4}},{$inc:{duration:1}})
+
+10. //Display all degrees
+db.degree.find()
+
+11. // Add new skill to student using regno
+db.students.updateOne({regno:'2021IT001'},{$push:{skills:'PHP'}})
+
+12. // Display student using regno
+db.students.findOne({regno:'2021IT001'})
