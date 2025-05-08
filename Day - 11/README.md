@@ -103,7 +103,7 @@ Web Services and Server Technologies - Practical Sessions
 
  04) Find all books.
 
-   
+    ![SS 24](https://github.com/user-attachments/assets/92096f90-b404-4c43-8748-8b00a304621f)
 
     
      
