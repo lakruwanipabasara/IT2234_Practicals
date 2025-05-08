@@ -94,5 +94,18 @@ Web Services and Server Technologies - Practical Sessions
    ![SS 21](https://github.com/user-attachments/assets/db1b5fe3-969c-4aa6-a238-e40fc3f83cdd)
 
 
+   ![SS 22](https://github.com/user-attachments/assets/3a0e69fd-0aa7-4e1c-b0bc-f5e4afb2c847)
+
+
+   ![SS 23](https://github.com/user-attachments/assets/e8924dc8-bcf6-41ee-86f7-1b2b9e9795c1)
+
+
+
+ 04) Find all books.
+
+    
+     
+     
+ 05) 
 
    
