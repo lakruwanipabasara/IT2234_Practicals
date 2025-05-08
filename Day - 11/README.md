@@ -89,7 +89,7 @@ Web Services and Server Technologies - Practical Sessions
 
 
 
-03) Insert the following data.
+01) Insert the following data.
 
    ![SS 21](https://github.com/user-attachments/assets/db1b5fe3-969c-4aa6-a238-e40fc3f83cdd)
 
@@ -98,3 +98,97 @@ Web Services and Server Technologies - Practical Sessions
 
 
    ![SS 23](https://github.com/user-attachments/assets/e8924dc8-bcf6-41ee-86f7-1b2b9e9795c1)
+
+
+02) Find all books.
+
+   ![SS 24](https://github.com/user-attachments/assets/844cc966-641e-477f-b7ce-f30de8b3631c)
+   
+
+   ![SS 25](https://github.com/user-attachments/assets/51a4c728-f93e-4972-8943-b47779f95965)
+
+
+   ![SS 26](https://github.com/user-attachments/assets/37a4e1cc-672b-494a-8506-95193994b67e)
+
+
+
+ 03) Find all books published after 1950.
+
+   ![SS 27](https://github.com/user-attachments/assets/7779be05-0937-406a-8374-4f30c7d4cf8f)
+
+
+
+ 04) Find the avilable books.
+
+     ![SS 28](https://github.com/user-attachments/assets/db72a83a-43b1-4520-940a-2270627282b2)
+
+     ![SS 29](https://github.com/user-attachments/assets/a75224ac-1158-4deb-ac6d-84d88c24ba3f)
+
+
+
+ 05) Find all books that belong to the "Dystopian" genre.
+
+     ![SS 30](https://github.com/user-attachments/assets/676a8892-7db0-4b01-9292-2c250f0e3b59)
+
+
+
+ 06) Find the books which published after 1960 and had rating more than 4.0.
+    
+     No results
+
+     ![SS 31](https://github.com/user-attachments/assets/9d377541-c674-415b-b28a-08efebd7c8d0)
+
+
+
+ 07) Project only title and author fields.
+
+     ![SS 32](https://github.com/user-attachments/assets/c4887c9a-0614-4df5-b5ae-916ba16e96a2)
+
+
+     
+ 08) Update the book "1984" to set available: false:
+
+   ![SS 33](https://github.com/user-attachments/assets/3fb7252f-570c-440c-a5af-12dbf5ea6420)
+
+
+
+ 09) Increase the rating of "Brave New World" by +0.1:
+
+   ![SS 34](https://github.com/user-attachments/assets/7efc8230-8d38-4402-8588-bb90c8b75679)
+
+
+
+ 10) Add a new genre "Classic" to "The Great Gatsby":
+
+   ![SS 35](https://github.com/user-attachments/assets/63f02a9c-9d6e-496c-aa79-6d897dbef75c)
+
+
+  11) Sort books by published_year Ascending:
+
+   ![SS 36](https://github.com/user-attachments/assets/546b8ebd-3e26-4d9a-a186-9a6237874b5c)
+
+
+   ![SS 37](https://github.com/user-attachments/assets/dc50038e-dfff-413f-9eed-b471580e3321)
+
+
+   ![SS 38](https://github.com/user-attachments/assets/8e092c9c-c0ec-419e-b0d3-3dbcd1f7ef8c)
+
+
+
+  12) Sort books by rating Descending:
+
+   ![SS 39](https://github.com/user-attachments/assets/837e3b07-0d29-4c2a-8f78-694bfc766f75)
+
+
+   ![SS 40](https://github.com/user-attachments/assets/ce36abca-2350-444c-8685-c672ccb5e958)
+
+
+   ![SS 41](https://github.com/user-attachments/assets/72960392-5b93-49a6-8198-cb4edb8aa76e)
+
+
+
+  13) Delete all books with a rating lower than 4.5:
+
+   ![SS 42](https://github.com/user-attachments/assets/724f956a-046f-443f-a51c-f803323fb774)
+
+
