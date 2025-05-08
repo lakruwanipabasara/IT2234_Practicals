@@ -75,3 +75,16 @@ Web Services and Server Technologies - Practical Sessions
 ➤ Display student using regno
 
 ![SS 12](https://github.com/user-attachments/assets/e17f7aa2-73a9-4ea9-968d-bdd89742eb84)
+
+
+
+
+
+## Exercise Queries --> Exercise.txt
+
+01) Create a database bookshop.
+02) Create a collection books.
+
+03) Insert the following data.
+
+   
