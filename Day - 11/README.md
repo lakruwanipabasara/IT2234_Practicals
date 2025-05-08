@@ -85,6 +85,14 @@ Web Services and Server Technologies - Practical Sessions
 01) Create a database bookshop.
 02) Create a collection books.
 
+![SS 20](https://github.com/user-attachments/assets/df336971-8aba-4471-b556-bcd7405fbade)
+
+
+
 03) Insert the following data.
+
+   ![SS 21](https://github.com/user-attachments/assets/db1b5fe3-969c-4aa6-a238-e40fc3f83cdd)
+
+
 
    
