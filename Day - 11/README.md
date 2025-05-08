@@ -98,18 +98,3 @@ Web Services and Server Technologies - Practical Sessions
 
 
    ![SS 23](https://github.com/user-attachments/assets/e8924dc8-bcf6-41ee-86f7-1b2b9e9795c1)
-
-
-
- 04) Find all books.
-
-    ![SS 24](https://github.com/user-attachments/assets/92096f90-b404-4c43-8748-8b00a304621f)
-
-    
-     
-     
- 05) Find all books published after 1950.
-
-   
-
-  06) 
