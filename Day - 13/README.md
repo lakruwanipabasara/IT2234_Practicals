@@ -1,27 +1,37 @@
 # IT2234_Practicals
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+# Student App
 
+## Step 1: Create the Project Folder
 
-(02)Arithmetic Operations
-
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+- Make a new folder named studentapp.
 
 
-(03)Loops
+## Step 2: Initialize the Project
 
-(1)Print numbers from 1 to 10
+- Open a terminal inside the studentapp folder and run the following commands:
 
-(2)Print only odd numbers
 
-(3)Print numbers in reverse
+## Step 3: Set Up the Application
 
-(4)Reverse numbers in left and right
+- Open the folder in Visual Studio Code.
+  
+- Inside the folder, create the following:
+  
+   -> models, routes, index.js file
 
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
+
+
+
+
+
+  
+
+  
+
+
 
 
 
