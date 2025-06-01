@@ -119,6 +119,7 @@ router.put('/:id',async(req,res)=>{
     }
 })
 
+//delete data
 router.delete('/:id', async (req,res)=>{
     try {
         const id = req.params.id
