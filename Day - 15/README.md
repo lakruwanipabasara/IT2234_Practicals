@@ -1,27 +1,43 @@
 # IT2234_Practicals
+
 Web Services and Server Technologies - Practical Sessions
 
-(01)Print "Hello"
+## API Endpoint  
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+### **GET /Student/course**  
+- **Purpose:** Fetch a list of students with their degree and enrolled course details.  
+- **Method:** `GET`  
+- **URL:** `/Student/course`  
 
+### **Response Structure**  
 
-(02)Arithmetic Operations
+####  **Success (200 OK)**  
+Returns an array of student objects, each containing:  
+- **Student Details:** (ID, Name, Date of Birth, Gender)  
+- **Degree Information:** (Degree Name, Credits, Duration, Faculty)  
+- **Enrolled Courses:** (Code, Name, Credits, Description)  
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+#### **No Data Found (404 Not Found)**  
+If no students exist, the API returns:  
+```
+{
+  "message": "Sorry, No Data Found!"
+}
+```
 
+#### **Server Error (500 Internal Server Error)**  
+For unexpected errors, the API responds with:  
+```
+{
+  "message": "Server Error!"
+}
+```
 
-(03)Loops
+## Student.js
 
-(1)Print numbers from 1 to 10
+## studentRoute.js
 
-(2)Print only odd numbers
-
-(3)Print numbers in reverse
-
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
+## Postman OUTPUT-:
 
 
 
