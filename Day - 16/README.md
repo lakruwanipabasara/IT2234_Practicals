@@ -63,15 +63,9 @@ To set up the project, follow these steps:
   
 - Get project counts per employee.
 
+![SS11](https://github.com/user-attachments/assets/ccd4afdc-4061-44a4-844c-b9bc707a9bb7)
 
   
-- List project names with employee details.
-  
-- Find distinct employee positions.
-  
-- Count employees per position.
-  
-- Find employees with roles like "Engineer" or "Software Engineer."
 
   
 ### Project Route
@@ -80,8 +74,6 @@ To set up the project, follow these steps:
 
 ![SS10](https://github.com/user-attachments/assets/a184e0ba-6294-4d98-9bcb-9ecf5c36d69f)
 
-  
-- List employees associated with each project.
 
 
 
