@@ -42,22 +42,28 @@ To set up the project, follow these steps:
 
 - Get all department details.
 
-  
+  ![SS3](https://github.com/user-attachments/assets/c526dda7-5c3a-4857-a558-be2910c5d9c8)
+
 
 - Get employees by department ID.
 
+![SS4](https://github.com/user-attachments/assets/7e991f58-d6a0-41f0-a355-f79b26854b16)
 
   
 - Get the employee count per department.
 
+![SS5](https://github.com/user-attachments/assets/433ac911-e5b4-466e-b97e-9cf1fb8ba459)
 
 
 ### Employee Route
 - Retrieve all employee details.
 
+![SS9](https://github.com/user-attachments/assets/2e6f4fcb-52bf-46df-8c6e-aed2744bce92)
 
   
 - Get project counts per employee.
+
+
   
 - List project names with employee details.
   
@@ -72,6 +78,10 @@ To set up the project, follow these steps:
 
 - Retrieve all project details.
 
+![SS10](https://github.com/user-attachments/assets/a184e0ba-6294-4d98-9bcb-9ecf5c36d69f)
+
   
 - List employees associated with each project.
+
+
 
