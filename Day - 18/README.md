@@ -18,7 +18,9 @@ The API provides endpoints for retrieving users, projects, tasks, as well as que
 ### 1. Create an endpoint to retrieve all data from the User, Project, and Task collections.
 ### Implement this task with code reusability.
 
-services ---> genericFindService.js
+services ---> getall.js
+
+
 
 add to all routes like below
 
