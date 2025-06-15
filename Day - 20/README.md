@@ -68,6 +68,7 @@ New User Registration
 
 Already Registered User
 
+![SS09](https://github.com/user-attachments/assets/cf2728fe-9294-4835-a53c-e7c89b8a054c)
 
 
 
@@ -75,7 +76,7 @@ Already Registered User
 
 Login Route (routes/userRoute.js)
 
-```
+```javascript
 router.post('/login',async (req,res)=>{
     try{
         let {username,password} = req.body
