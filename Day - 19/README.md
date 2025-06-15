@@ -4,7 +4,7 @@ Web Services and Server Technologies - Practicals
 
 ## Library App
 
-#### 1. Map the models to the database and insert the given data, then display the collections 
+### 1. Map the models to the database and insert the given data, then display the collections 
 in table view.  
 
 ![SS05](https://github.com/user-attachments/assets/84e8a16f-ab1e-4902-8465-71beb54387e1)
